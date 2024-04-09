@@ -1,0 +1,83 @@
+﻿@model PriceQuotaionModelForCalc
+@{
+    ViewBag.Title = "Price Quotation";
+}
+
+<div>
+    <!-- used jumbotron and bg color of bootstrap for header -->
+    <header class="jumbotron bg-success text-center mt-0 ">
+        <h1 class="mt-3 text-white header1"> 
+            <span class="fas fa-money-bill-alt"></span>@ViewBag.Title
+            </h1>
+    </header>
+
+    
+    <main>
+        <!-- form -->
+        <form asp-action="Index" method="post">
+            <!--For each row, using a <div> element that’s assigned to the row and form-group classes. -->
+            <div class="row form-group">
+                <label asp-for="subtotal"
+                       class="col-sm-3">Subtotal: </label>
+
+                <div class="col-sm-3">
+                    <input asp-for="subtotal" class="form-control " />
+                </div>
+
+                <span asp-validation-for="subtotal"
+                      class="col text-danger"></span>
+            </div>
+            <!--For each row, using a <div> element that’s assigned to the row and form-group classes. -->
+
+            <div class="row form-group">
+                <label asp-for="Dispercent"
+                       class="col-sm-3">Discount Percent:</label>
+
+                <div class="col-sm-3">
+                    <input asp-for="Dispercent" class="form-control" />
+                </div>
+
+                <span asp-validation-for="Dispercent"
+                      class="col text-danger"></span>
+            </div>
+            <!--For each row, using a <div> element that’s assigned to the row and form-group classes. -->
+
+            <div class="row form-group">
+
+                <label class="col-sm-3">Discount Amount:</label>
+
+                <label class="control-label col-sm-3">
+
+                    @ViewBag.DisAmt.ToString("C2")
+                </label>
+            </div>
+            <!--For each row, using a <div> element that’s assigned to the row and form-group classes. -->
+
+            <div class="row form-group">
+
+                <label class="control-label col-sm-3">Total:</label>
+
+                <label class="control-label col-sm-3">
+                    @ViewBag.Total.ToString("C2")
+                </label>
+
+            </div>
+            <!--For each row, using a <div> element that’s assigned to the row and form-group classes. -->
+
+            <div class="row">
+                <div class="col pl-0">
+                    <!-- styling of calucalte button and clear link as buttons -->
+                    <button type="submit" class="btn btn-success ml-2">
+                        Calculate
+                    </button>
+
+                    <a asp-action="Index"
+                       class="btn btn-success ml-2">Clear</a>
+                </div>
+            </div>
+        </form>
+    </main>
+</div>
+
+
+

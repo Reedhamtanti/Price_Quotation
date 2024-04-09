@@ -1,0 +1,123 @@
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\bin\Debug\netcoreapp3.1\appsettings.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.exe
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.deps.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.runtimeconfig.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.runtimeconfig.dev.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.Views.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.csproj.AssemblyReference.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.AssemblyInfoInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.AssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.csproj.CoreCompileInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.MvcApplicationPartsAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\pricequotation.StaticWebAssets.Manifest.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\pricequotation.StaticWebAssets.Pack.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.pricequotation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.pricequotation.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.pricequotation.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.pricequotation.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.TagHelpers.input.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.TagHelpers.output.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorCoreGenerate.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorTargetAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorTargetAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.genruntimeconfig.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.csproj.CopyComplete
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\appsettings.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.exe
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.deps.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.runtimeconfig.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.runtimeconfig.dev.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.Views.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.csproj.AssemblyReference.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.AssemblyInfoInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.AssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.csproj.CoreCompileInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.MvcApplicationPartsAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\pricequotation.StaticWebAssets.Manifest.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\pricequotation.StaticWebAssets.Pack.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.pricequotation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.pricequotation.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.pricequotation.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.pricequotation.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.TagHelpers.input.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.TagHelpers.output.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorCoreGenerate.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorTargetAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorTargetAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.genruntimeconfig.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.csproj.CopyComplete
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\appsettings.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.exe
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.deps.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.runtimeconfig.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.runtimeconfig.dev.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.Views.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\bin\Debug\netcoreapp3.1\pricequotation.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.csproj.AssemblyReference.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.AssemblyInfoInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.AssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.csproj.CoreCompileInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.MvcApplicationPartsAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\pricequotation.StaticWebAssets.Manifest.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\pricequotation.StaticWebAssets.Pack.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.pricequotation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.pricequotation.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.pricequotation.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.pricequotation.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.TagHelpers.input.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.TagHelpers.output.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorCoreGenerate.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorTargetAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.RazorTargetAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.genruntimeconfig.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 3-1 pricequotation - bootstrap\pricequotation\obj\Debug\netcoreapp3.1\pricequotation.csproj.CopyComplete
